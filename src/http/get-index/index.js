@@ -7,21 +7,21 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
-    title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    fullname: 'Heitor Cordeiro Mejias', // ←  Start by adding your name!
+    title: 'Heitor Cordeiro Mejias',
+    occupation: 'Solution/Software Architect',
+    location: 'São Paulo, Brazil',
+    bio: 'Specialist in solution architecture with micro-services, DDD, Hexagonal, Onion, Clean, CQRS and all together. Java specialist and vast knowledge in several programming languages such as Go, Python, Javascript / typescript, etc.',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
-    facebook: 'your-facebook-name',
+    email: 'cadastro@mejias.com.br',
+    twitter: 'heitor.mejias',
+    linkedin: 'heitor-cordeiro-mejias/',
+    instagram: '',
+    facebook: '',
 
     /**
      * Layout
