@@ -18,7 +18,7 @@ exports.handler = async function Index () {
      * - Comment out any item below to remove it from your page
      */
     email: 'cadastro@mejias.com.br',
-    twitter: 'heitor.mejias',
+    twitter: 'heitormejias',
     linkedin: 'heitor-cordeiro-mejias/',
     instagram: '',
     facebook: '',
